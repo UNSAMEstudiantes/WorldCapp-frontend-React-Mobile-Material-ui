@@ -4,10 +4,18 @@
 
 [![build](https://github.com/algo3-unsam/worldcapp-2023-react-grupo-9/actions/workflows/build.yml/badge.svg)](https://github.com/algo3-unsam//worldcapp-2023-react-grupo-9/actions/workflows/build.yml)
 
+## ¿Quiénes somos?
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Somos un grupo de cuatro estudiantes de la Universidad Nacional de San Martín, cursando una de las últimas materias de la carrera, e intentando dar lo mejor de nosotros en este proyecto. En concreto, somos:
 
-Currently, two official plugins are available:
+Gomez Daniel
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Sanchez Marcelo
+
+Exarchos Alan
+
+Mary Cairo
+
+## El proyecto
+
+Basado en React, utilizando la libreria Material-UI
